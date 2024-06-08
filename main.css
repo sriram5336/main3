@@ -1,0 +1,566 @@
+body {
+    background-color: RGB(7, 13, 27);
+}
+
+header {
+    background-color: RGB(7, 13, 27);
+}
+
+.img1 {
+    position: absolute;
+    margin-left: 880px;
+    width: 15px;
+    margin-top: -8px;
+}
+
+li {
+    display: inline;
+    position: relative;
+    left: 360px;
+    padding: 15px;
+    margin-top: -10px;
+    margin-left: -10px;
+    font-size: 11px;
+}
+
+.p1 {
+    color: yellow;
+    margin-top: 150px;
+    margin-left: 220px;
+    font-size: 30px;
+}
+
+.p2 {
+    color: white;
+    margin-top: -20px;
+    margin-left: 220px;
+    font-size: 50px;
+}
+
+.p3 {
+    color: white;
+    margin-top: -20px;
+    margin-left: 220px;
+    font-size: 30px;
+}
+
+.button1 {
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    background-color: rgb(254, 197, 68);
+    margin-left: 220px;
+    margin-top: 10px;
+    border: 0px;
+    border-color: yellow;
+}
+
+.button1:hover {
+    background-color: antiquewhite;
+    box-shadow: 2px 1px 5px 2px lightblue;
+}
+
+.link {
+    border-top: 1px;
+    border-left: 1px;
+    border-bottom: 1px;
+    border-right: 0.00001px;
+    /* width: 320px; */
+    width: 520px;
+    height: 70px;
+    border-color: azure;
+    border-style: solid;
+    margin-left: 420px;
+    margin-top: 150px;
+    border-top-left-radius: 35px;
+    border-bottom-left-radius: 35px;
+    background-color: rgb(16, 22, 36);
+}
+
+.button2 {
+    height: 40px;
+    border-radius: 35px;
+    margin-top: 15px;
+    margin-left: 12px;
+    border-color: white;
+    background-color: RGB(7, 13, 27);
+    color: white;
+    width: 100px;
+    font-weight: bold;
+}
+
+.button3 {
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 35px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-color: white;
+    background-color: RGB(7, 13, 27);
+    font-weight: bold;
+
+}
+
+.button4 {
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 35px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-color: white;
+    background-color: RGB(7, 13, 27);
+    font-weight: bold;
+
+}
+
+.button5 {
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 35px;
+    margin-top: 15px;
+    margin-left: 15px;
+    border-color: white;
+    background-color: RGB(7, 13, 27);
+    font-weight: bold;
+
+}
+
+.aboutme {
+    font-size: 70px;
+    font-weight: bold;
+    color: rgba(143, 138, 138, 0.055);
+    margin-top: 70px;
+    text-align: center;
+}
+
+.aboutme1 {
+    font-size: 20px;
+    color: rgb(254, 197, 68);
+    font-weight: 600;
+    text-align: center;
+    margin-top: -95px;
+}
+
+.w {
+    margin-left: 600px;
+    position: relative;
+    margin-top: -30px;
+    font-weight: 400;
+}
+
+.w1 {
+    margin-left: 700px;
+    position: absolute;
+    position: relative;
+    margin-top: -40px;
+    font-weight: 400;
+}
+
+.y {
+    position: absolute;
+    margin-left: 650px;
+    margin-top: -40px;
+    color: rgb(254, 197, 68);
+    font-weight: 600;
+    font-weight: bold;
+}
+
+.hi {
+    color: white;
+    font-size: 30px;
+    margin-left: 700px;
+    margin-top: 60px;
+}
+
+.VisualDesigner {
+    color: rgb(254, 197, 68);
+    margin-left: 700px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.Iam {
+    color: rgb(159, 158, 159);
+    margin-left: 700px;
+    font-size: 13px;
+}
+
+.bd {
+    color: rgb(159, 158, 159);
+    margin-left: 700px;
+    font-size: 13px;
+    line-height: 30px;
+    margin-top: -10px;
+}
+
+.downloadcv {
+    border-radius: 25px;
+    width: 130px;
+    height: 40px;
+    background-color: rgb(254, 197, 68);
+    margin-left: 700px;
+    margin-top: 10px;
+    border: 0px;
+    border-color: yellow;
+    font-size: 12px;
+    color: black;
+}
+
+.downloadcv:hover {
+    background-color: antiquewhite;
+    box-shadow: 2px 1px 5px 2px lightblue;
+}
+
+.bg1 {
+    background-color: rgb(10, 16, 30);
+    margin-top: -30px;
+    height: 600px;
+}
+
+.bg2 {
+    background-color: rgb(10, 16, 30);
+    height: 880px;
+}
+
+.card1 {
+    width: 8cm;
+    position: absolute;
+    border-radius: 5px;
+    margin-right: 650px;
+    height: 9cm;
+    background-color: rgb(16, 22, 36);
+}
+
+.card2 {
+    position: relative;
+    width: 8cm;
+    border-radius: 5px;
+    height: 9cm;
+    background-color: rgb(16, 22, 36);
+}
+
+.card3 {
+    width: 8cm;
+    position: absolute;
+    border-radius: 5px;
+    height: 9cm;
+    margin-left: 650px;
+    background-color: rgb(16, 22, 36);
+}
+
+
+.card4 {
+    width: 8cm;
+    position: absolute;
+    border-radius: 5px;
+    margin-right: 650px;
+    height: 9cm;
+    margin-top: 730px;
+    background-color: rgb(16, 22, 36);
+}
+
+.card5 {
+    position: absolute;
+    width: 8cm;
+    border-radius: 5px;
+    height: 9cm;
+    background-color: rgb(16, 22, 36);
+    margin-top: 730px;
+}
+
+
+.card6 {
+    width: 8cm;
+    position: absolute;
+    border-radius: 5px;
+    margin-left: 650px;
+    height: 9cm;
+    margin-top: 730px;
+    background-color: rgb(16, 22, 36);
+}
+
+.ui {
+    margin-top: 170px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.623);
+}
+
+.skill{
+    color: white;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 30px;
+    line-height: 35px;
+}
+.vis{
+    color: rgba(255, 255, 255, 0.623);
+    font-size: 13px;
+margin-left: 250px;
+}
+.AdobePhotoshop{
+    color: white;
+    position: absolute;
+    margin-left: 720px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -235px;
+}
+.per{
+    font-size: 12px;
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 1080px;
+    font-weight: bold;
+    margin-top: -238px;
+}
+.ad{
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -233px;
+}
+
+.ad1{
+    position: absolute;
+    margin-left: 1070px;
+    margin-top: -233px;
+    color: rgba(255, 255, 255, 0.192);
+}
+.html{
+    color: white;
+    position: absolute;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 720px;
+    margin-top: -190px;
+}
+.per1{
+    font-size: 12px;
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 1080px;
+    font-weight: bold;
+    margin-top: -190px;
+}
+
+.ht{
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -190px;
+}
+.ad2{
+    position: absolute;
+    margin-left: 1013px;
+    margin-top: -190px;
+    color: rgba(255, 255, 255, 0.219);
+}
+
+.osi{
+    color: white;
+    position: absolute;
+    margin-left: 720px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -145px;
+}
+.per2{
+    font-size: 12px;
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 1080px;
+    font-weight: bold;
+    margin-top: -145px;
+}
+
+.os{
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -145px;
+}
+.ad3{
+    position: absolute;
+    margin-left: 1048px;
+    color: rgba(255, 255, 255, 0.233);
+    margin-top: -145px;
+}
+
+
+.web{
+    color: white;
+    position: absolute;
+    margin-left: 720px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -102px;
+}
+.per3{
+    font-size: 12px;
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 1080px;
+    font-weight: bold;
+    margin-top: -102px;
+}
+
+.web1{
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -102px;
+}
+.ad4{
+    position: absolute;
+    margin-left: 1030px;
+    margin-top: -102px;
+    color: rgba(255, 255, 255, 0.178);
+}
+.css{
+    color: white;
+    position: absolute;
+    margin-left: 720px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -60px;
+}
+.per4{
+    font-size: 12px;
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 1080px;
+    font-weight: bold;
+    margin-top: -60px;
+}
+
+.css1{
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -60px;
+}
+
+.ad5{
+    position: absolute;
+    margin-left: 1017px;
+    color: rgba(255, 255, 255, 0.164);
+    margin-top: -60px;
+}
+.gam{
+    color: white;
+    position: absolute;
+    margin-left: 720px;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -20px;
+}
+.per5{
+    font-size: 12px;
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 1080px;
+    font-weight: bold;
+    margin-top: -20px;
+}
+.gam1{
+    color: rgb(254, 197, 68);
+    position: absolute;
+    margin-left: 720px;
+    margin-top: -20px;
+}
+
+.ad6{
+    position: absolute;
+    margin-left: 1050px;
+    margin-top: -20px;
+    color: rgba(255, 255, 255, 0.219);
+}
+
+
+
+.Experience{
+    font-size: 30px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+.WebDesigner{
+font-size: 20px;
+color: rgb(254, 197, 68);
+font-weight: 600;
+margin-top: -95px;
+}
+.trichy{
+    color: white;
+}
+.jan{
+    color: rgba(255, 255, 255, 0.623);
+    margin-top: -9px;
+}
+.resume{
+    margin-top: 120px;
+    margin-left: 300px;
+}
+.resume1{
+    margin-top: 130px;
+    margin-left: 300px;
+}
+.resume2{
+    margin-top: 130px;
+    margin-left: 900px;
+}
+.port{
+    width: 350px;
+    margin-left: 140px;
+    margin-top: 90px;
+}
+
+.port1{
+    margin-top: 60px;
+    margin-left: -20px;
+    filter: drop-shadow(-5px 5px 3px #4444dd);
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    height: 150px;
+    margin-top: 10px;
+    width: 420px;
+    background-color: rgb(16, 22, 36); 
+    border-color: rgba(255, 255, 255, 0.062);
+    color: rgba(255, 255, 255, 0.329);
+        border-radius: 5px;
+
+  }
+  
+
+  #lname{
+    height: 40px;
+    background-color: rgb(16, 22, 36); 
+    border-color: rgba(255, 255, 255, 0.062);
+    color: rgba(255, 255, 255, 0.329);
+        border-radius: 5px;
+
+}
+  .div1 {
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 180px;
+    margin-top: -30px;
+    width: 460px;
+    
+  }  
